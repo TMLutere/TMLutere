@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Terrence 👋
 
-<!--
-**TMLutere/TMLutere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst | Python • SQL • Pandas • Power BI
 
-Here are some ideas to get you started:
+I am a BSc Mathematics & Statistics graduate passionate about transforming raw data into useful business insights and reports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+- Python (Pandas, data cleaning & analysis)
+- SQL queries and aggregation
+- Power BI dashboards
+- Excel reporting
+
+Projects
+
+- Retail Sales Data Analysis (Python & Power BI)
+
+Currently
+
+- Building my data analytics portfolio
+- Seeking a Junior/Mid-level Data Analyst / Reporting Analyst role
+
+Contact
+
+LinkedIn: https://www.linkedin.com/in/terrence-murendi-lutere-844180222
