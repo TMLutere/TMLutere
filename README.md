@@ -1,4 +1,4 @@
-# Hi, I'm Terrence Murendi Lutere 👋
+# Terrence Murendi Lutere 
 
 ## Junior Data Analyst | Python | SQL | Pandas | Power BI 
 
@@ -15,10 +15,13 @@ LinkedIn: https://www.linkedin.com/in/terrence-murendi-lutere-844180222/
 - Building Power BI dashboards and visualizations
 - Extracting trends and business recommendations from data
 
-📊 Portfolio Projects:
+## Portfolio Projects:
 
 - Retail Sales Analysis (Python & Power BI)
+  https://github.com/TMLutere/retail-sales-analysis
+
 - SQL Sales Analysis (SQL Reporting Queries)
+  https://github.com/TMLutere/sql-sales-analysis
 
 
-I am currently seeking a Junior Data Analyst / Reporting Analyst opportunity.
+## I am currently seeking a Junior Data Analyst / Reporting Analyst opportunity.
